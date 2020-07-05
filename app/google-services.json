@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "929637186072",
+    "firebase_url": "https://android-facial-map.firebaseio.com",
+    "project_id": "android-facial-map",
+    "storage_bucket": "android-facial-map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929637186072:android:b2ed97e765b05b2de7a16d",
+        "android_client_info": {
+          "package_name": "br.sofex.androidcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929637186072-t1j1qrq09ta59mbgt7u7dn36ukik7r63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.sofex.androidcloud",
+            "certificate_hash": "13e231326283b2af07b41a6117d5707d5b0d2404"
+          }
+        },
+        {
+          "client_id": "929637186072-v4cqvr92ocgfndrqma2meruqb142vnds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFmjC1vZe6Gr23rGdThyjGtOQEYPX5sE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929637186072-v4cqvr92ocgfndrqma2meruqb142vnds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
